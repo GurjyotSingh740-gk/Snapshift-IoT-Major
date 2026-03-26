@@ -1,7 +1,7 @@
 # SnapShift â€” SYSTEM 1 (Sender)
 # BTN1 = SELECT active window â†’ start move
 # BTN2 = If at right edge â†’ TRANSFER to System 2 | else drop in place
-# BTN3 = RESET everything
+# BTN3 = RESET everything New
 
 import socket
 import threading
